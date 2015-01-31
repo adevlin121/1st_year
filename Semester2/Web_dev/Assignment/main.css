@@ -1,0 +1,39 @@
+.main
+{background-image:url("http://tangospizzakendall.com/wp-content/gallery/tangos-pizza-gourmet-gallery/pizza_supreme_light-copy-784810.jpg");}
+
+.location
+{background-image:url("http://www.eatingitalyfoodtours.com/wp-content/uploads/2012/10/bruschetta-italy-halloween-food.jpg");}
+
+.book
+{background-image:url("http://imgtrends.org/wp-content/uploads/2014/03/italian-traditional-food_1394442802.jpg");}
+
+.menu
+{background-image:url("http://3.bp.blogspot.com/-U-dklVC9Zb4/UC18AkHDUsI/AAAAAAAAA4M/UyYdbtXuTuc/s1600/DSCF3048.JPGg");}
+
+.contact
+{background-image:url("http://2.bp.blogspot.com/-qK5Lc-nAToY/TtAZD2ysLCI/AAAAAAAACFU/-c4jC-_QxSs/s1600/IMG_8052.JPG");}
+
+.plain
+{background-color:salmon;
+border: 0px solid black;}
+
+
+table, th, td
+{border: 1px solid black;
+background-color:salmon;
+color:black;
+font-size:20px;}
+
+td
+{padding:5px;}
+
+th
+{padding:10px;
+font-size:30.px;}
+
+.center
+{text-align:center;}
+
+p
+{text-align:center;
+background-color:white;}

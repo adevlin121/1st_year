@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<title>La Toscana: Location</title>
+</head>
+
+<body class="location">
+
+<script>
+function changeImage()
+{
+element = document.getElementById('myimage');
+if (element.src.match("place"))
+  {
+  element.src = "place2.png";
+  }
+else
+  {
+  element.src = "place.png";
+  }
+}
+</script>
+
+
+
+	<table align="center">
+		<tr><td><h1 class="center">Where to find us!</h1></td></tr>
+	</table>
+
+	<br><br>
+
+	<table align="center">
+		<tr><td class="center">Click map to change zoom</td></tr>
+		<tr><td><img id="myimage" onclick="changeImage()" src="place.png"></td></tr>
+	</table>
+
+	<p><a href="C13765599.html">Home Page</a></p>
+</body>
